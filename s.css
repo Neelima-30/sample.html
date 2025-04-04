@@ -1,0 +1,33 @@
+.form{
+    background-color:lightgoldenrodyellow;
+    display:flex;
+    width:600px;
+    height:500px;
+    flex-direction:column;
+    align-items:center;
+    justify-content:space-evenly;
+    border-style:solid ;
+    align-items: flex-start;
+    text-size-adjust:30px;
+    border:solid black;
+
+}
+h1{
+    background-color:lightgreen;
+    width: 600px;
+    padding-bottom:2px;
+    border-style:solid;
+    text-align: center;
+}
+#s{
+    background-color:green;
+}
+body{
+    padding-left: 400px;
+    border-color: shaded black;
+    justify-content: space-evenly;
+}
+#c{
+    padding-left:260px;
+}
+
